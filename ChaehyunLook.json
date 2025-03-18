@@ -14,9 +14,9 @@
             "#fb4934"
         ],
         "BACKGROUND_FLOATING": [
-            "#c1a7e2",
-            "#c1a7e2",
-            "#c1a7e2"
+            "#000000",
+            "#000000",
+            "#0000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#bdae931a",
@@ -369,9 +369,9 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#32c8fa",
+            "#32c8fa",
+            "#32c8fa"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#dcddde",
